@@ -3,7 +3,7 @@
 ## Description:
 The Secure File Transfer Protocol (SFTP) Server Agent is a Python script designed to facilitate the secure transfer of files or directories from a local machine to a remote machine using the SFTP protocol. This project aims to provide a convenient and reliable method for transferring sensitive data between machines in a secure manner.
 
-![Simple project workflow diagram]()
+![Simple project workflow diagram](https://github.com/AbdulghaffarAbed/End-to-end-SFTP-Remote-Connection/blob/master/images/remote_connection.PNG)
 ## Prerequisites:
 
 1. Python and pip installed on the local machine.
